@@ -82,8 +82,8 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (914,'MONTEIRO
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (922,'MUNGUBA',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (930,'MURICI',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (949,'NOVO LINO',27);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (957,'OLHO D\'AGUA DAS FLORES',27);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (965,'OLHO D\'AGUA DO CASADO',27);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (957,'OLHO D''AGUA DAS FLORES',27);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (965,'OLHO D''AGUA DO CASADO',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (973,'OLHO D AGUA GRANDE',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (981,'OLIVENCA',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (990,'OURO BRANCO',27);
@@ -122,7 +122,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1376,'SAPUCAI
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1384,'SATUBA',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1392,'SENADOR RUI PALMEIRA',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1406,'TABOLEIRO DO PINTO',27);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1414,'TANQUE D\'ARCA',27);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1414,'TANQUE D''ARCA',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1422,'TAQUARANA',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1430,'TATUAMUNHA',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (1457,'TRAIPU',27);
@@ -727,7 +727,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7897,'NOVA VI
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7900,'NOVO ACRE',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7919,'NUCLEO RESIDENCIAL PILAR',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7927,'NUGUACU',29);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7935,'OLHOS D\'AGUA DO SERAFIM',29);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7935,'OLHOS D''AGUA DO SERAFIM',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7951,'OLINDINA',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7960,'OLIVEIRA DOS BREJINHOS',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (7978,'OLIVENCA',29);
@@ -1302,8 +1302,8 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13889,'NOVO A
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13897,'NOVO ORIENTE',23);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13900,'OCARA',23);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13919,'OITICICA',23);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13927,'OLHO-D\'AGUA',23);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13935,'OLHO-D\'AGUA DA BICA',23);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13927,'OLHO-D''AGUA',23);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13935,'OLHO-D''AGUA DA BICA',23);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13943,'OLIVEIRAS',23);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13951,'OROS',23);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (13960,'PACAJUS',23);
@@ -1995,7 +1995,8 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21326,'PORTEI
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21334,'PORTELANDIA',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21342,'PORTO NACIONAL',17);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21350,'POSSE',52);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21369,'POSSE D\'ABADIA',52);
+
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21369,'POSSE D''ABADIA',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21377,'RIO QUENTE',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21385,'PRESIDENTE KENNEDY',17);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21393,'PRINCIPE',17);
@@ -2034,7 +2035,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21733,'SAO FR
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21741,'SAO GABRIEL DE GOIAS',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21750,'SAO JOAO',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21768,'SAO JOAO DA PARAUNA',52);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21776,'SAO JOAO D\'ALIANCA',52);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21776,'SAO JOAO D''ALIANCA',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21784,'SAO LUIS DE MONTES BELOS',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21806,'SAO LUIZ DO TOCANTINS',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21814,'SAO MIGUEL DO PASSA QUATRO',52);
@@ -2047,7 +2048,8 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21873,'SERRA 
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21881,'SERRANOPOLIS',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21890,'SILVANIA',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21903,'SILVANOPOLIS',17);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21920,'SITIO D\'ABADIA',52);
+
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21920,'SITIO D''ABADIA',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21938,'SITIO NOVO DO TOCANTINS',17);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21946,'SOUSANIA',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (21954,'TAGUATINGA',17);
@@ -2181,7 +2183,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23361,'MONTES
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23370,'MORROS',21);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23396,'NINA RODRIGUES',21);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23400,'NOVA IORQUE',21);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23426,'OLHO D\'AGUA DAS CUNHAS',21);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23426,'OLHO D''AGUA DAS CUNHAS',21);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23442,'PACO DO LUMIAR',21);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23450,'PALMEIRANDIA',21);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (23469,'PAPAGAIO',21);
@@ -2934,7 +2936,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (31933,'LEOPOL
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (31941,'LEVINOPOLIS',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (31950,'LIBERDADE',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (31968,'LIMA DUARTE',31);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (31976,'LIMEIRA D\'OESTE',31);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (31976,'LIMEIRA D''OESTE',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (31984,'LIMEIRA DE MANTENA',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (32000,'LOBO LEITE',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (32018,'LONTRA',31);
@@ -3069,8 +3071,8 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33367,'NOVO H
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33375,'OCIDENTE',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33383,'OLARIA',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33391,'OLEGARIO MACIEL',31);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33413,'OLHOS-D\'AGUA',31);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33421,'OLHOS D\'AGUA DO OESTE',31);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33413,'OLHOS-D''AGUA',31);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33421,'OLHOS D''AGUA DO OESTE',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33430,'OLIMPIO CAMPOS',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33448,'OLIMPIO NORONHA',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (33456,'OLIVEIRA',31);
@@ -3837,7 +3839,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41815,'CORONE
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41823,'COXIPO DA PONTE',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41831,'CRISTINOPOLIS',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41840,'CRISTO REI',51);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41858,'GLORIA D\'OESTE',51);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41858,'GLORIA D''OESTE',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41866,'CUIABA',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41874,'DENISE',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (41890,'DIAMANTINO',51);
@@ -3866,7 +3868,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42129,'JUARA'
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42137,'JUINA',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42145,'JURUENA',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42153,'JUSCIMEIRA',51);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42161,'LAMBARI D\'OESTE',51);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42161,'LAMBARI D''OESTE',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42170,'LAVOURAS',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42188,'LUCAS DO RIO VERDE',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42196,'LUCIALVA',51);
@@ -3876,7 +3878,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42226,'NOVA M
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42234,'MATUPA',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42242,'MARZAGAO',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42250,'MIMOSO',51);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42269,'MIRASSOL D\'OESTE',51);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42269,'MIRASSOL D''OESTE',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42277,'NOBRES',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42285,'NORTELANDIA',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (42293,'NOSSA SENHORA DO LIVRAMENTO',51);
@@ -4309,7 +4311,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46884,'LASTRO
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46892,'LIVRAMENTO',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46906,'LOGRADOURO',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46914,'LUCENA',25);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46930,'MAE D\'AGUA',25);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46930,'MAE D''AGUA',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46949,'MAIA',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46957,'MALTA',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (46965,'MAMANGUAPE',25);
@@ -4338,7 +4340,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47201,'NOSSA 
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47210,'NOVA FLORESTA',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47228,'NOVA OLINDA',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47236,'NOVA PALMEIRA',25);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47244,'OLHO D\'AGUA',25);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47244,'OLHO D''AGUA',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47252,'OLIVEDOS',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47260,'OURO VELHO',25);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (47287,'PARARI',25);
@@ -4535,7 +4537,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49360,'CONCEI
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49379,'CONDADO',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49387,'CORRENTES',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49395,'CORTES',26);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49409,'COURO D\'ANTAS',26);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49409,'COURO D''ANTAS',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49417,'CRISTALIA',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49425,'CRUANJI',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (49433,'CRUZES',26);
@@ -4655,7 +4657,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50644,'NOSSA 
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50652,'NOSSA SENHORA DO CARMO',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50660,'NOSSA SENHORA DO O',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50679,'NOVA CRUZ',26);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50687,'OLHO D\'AGUA DE DENTRO',26);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50687,'OLHO D''AGUA DE DENTRO',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50695,'OLINDA',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50709,'ORI',26);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (50717,'OROBO',26);
@@ -4971,7 +4973,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54020,'ATALAI
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54038,'AURORA DO IGUACU',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54046,'BALSA NOVA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54054,'BANDEIRANTES',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54062,'BANDEIRANTES D\'OESTE',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54062,'BANDEIRANTES D''OESTE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54070,'BARAO DE LUCENA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54089,'BARBOSA FERRAZ',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (54100,'BARRA BONITA',41);
@@ -5093,7 +5095,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55310,'DEPUTA
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55328,'DEZ DE MAIO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55336,'DIAMANTE DO SUL',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55344,'DIAMANTE DO NORTE',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55352,'DIAMANTE D\'OESTE',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55352,'DIAMANTE D''OESTE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55360,'DOCE GRANDE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55379,'DOIS IRMAOS',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55387,'DOIS IRMAOS',41);
@@ -5104,7 +5106,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55425,'DOUTOR
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55433,'DOUTOR CAMARGO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55441,'DOUTOR OLIVEIRA CASTRO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55450,'EDUARDO XAVIER DA SILVA',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55476,'ENCANTADO D\'OESTE',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55476,'ENCANTADO D''OESTE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55484,'ENEAS MARQUES',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55492,'ENGENHEIRO BELTRAO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (55514,'ENTRE RIOS',41);
@@ -5200,7 +5202,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56430,'ITAIAC
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56448,'ITAMBARACA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56456,'ITAMBE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56464,'ITAPARA',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56472,'ITAPEJARA D\'OESTE',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56472,'ITAPEJARA D''OESTE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56480,'ITAUNA DO SUL',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56499,'4O. CENTENARIO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (56502,'IVAI',41);
@@ -5347,7 +5349,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (57983,'PALOTI
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58009,'PANGARE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58017,'PAPAGAIOS NOVOS',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58025,'PARAISO DO NORTE',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58033,'PARANA D\'OESTE',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58033,'PARANA D''OESTE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58041,'PARANACITY',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58050,'PARANAGI',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58068,'PARANAGUA',41);
@@ -5417,7 +5419,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58726,'QUINTA
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58734,'QUITANDINHA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58742,'RAMILANDIA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58750,'RANCHO ALEGRE',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58769,'RANCHO ALEGRE D\'OESTE',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58769,'RANCHO ALEGRE D''OESTE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58777,'REALEZA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58785,'REBOUCAS',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (58793,'REIANOPOLIS',41);
@@ -5498,13 +5500,13 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59544,'SAO FR
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59552,'SAO JERONIMO DA SERRA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59560,'SAO JOAO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59579,'SAO JOAO',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59587,'SAO JOAO D\'OESTE',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59587,'SAO JOAO D''OESTE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59595,'SAO JOAO DO CAIUA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59609,'SAO JOAO DO IVAI',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59617,'SAO JOAO DO PINHAL',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59625,'SAO JOAO DO TRIUNFO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59633,'SAO JOAQUIM DO PONTAL',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59641,'SAO JORGE D\'OESTE',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59641,'SAO JORGE D''OESTE',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59650,'SAO JORGE DO IVAI',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59668,'SAO JORGE DO PATROCINIO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (59676,'SAO JOSE',41);
@@ -5976,7 +5978,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64688,'JOAO D
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64696,'JOSE DA PENHA',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64700,'JUCURUTU',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64718,'JUNDIA DE CIMA',24);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64726,'LAGOA D\'ANTA',24);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64726,'LAGOA D''ANTA',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64734,'LAGOA DE PEDRAS',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64742,'LAGOA DE VELHOS',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64750,'LAGOA NOVA',24);
@@ -6001,7 +6003,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64947,'MOSSOR
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64955,'NATAL',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64963,'NISIA FLORESTA',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64971,'NOVA CRUZ',24);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64980,'OLHO-D\'AGUA DO BORGES',24);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64980,'OLHO-D''AGUA DO BORGES',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (64998,'OURO BRANCO',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65005,'VENHA-VER',24);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65013,'PARANA',24);
@@ -6092,14 +6094,14 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65900,'CALAMA
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65919,'CEREJEIRAS',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65927,'COLORADO DO OESTE',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65935,'COSTA MARQUES',11);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65943,'ESPIGAO D\'OESTE',11);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65943,'ESPIGAO D''OESTE',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65951,'GUAJARA-MIRIM',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65960,'JAMARI',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65978,'JACI PARANA',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65986,'JARU',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (65994,'JI-PARANA',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (66001,'MARCO RONDON',11);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (66036,'NOVA BRASILANDIA D\'OESTE',11);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (66036,'NOVA BRASILANDIA D''OESTE',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (66044,'NOVA VIDA',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (66052,'OURO PRETO DO OESTE',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (66060,'PEDRAS NEGRAS',11);
@@ -7103,7 +7105,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76643,'GUATA'
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76651,'GUATAMBU',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76660,'HERCILIO LUZ',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76678,'HERCILIOPOLIS',42);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76686,'HERVAL D\'OESTE',42);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76686,'HERVAL D''OESTE',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76694,'IBIAM',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76708,'IBICARE',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (76716,'IBIRAMA',42);
@@ -7253,7 +7255,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78204,'RIBEIR
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78212,'RIBEIRAO PEQUENO',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78239,'RIO ANTINHA',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78247,'RIO BONITO',42);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78255,'RIO D\'UNA',42);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78255,'RIO D''UNA',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78263,'RIO DAS ANTAS',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78271,'RIO DAS FURNAS',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78280,'RIO DO CAMPO',42);
@@ -7303,7 +7305,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78743,'SAO LO
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78751,'SAO LUDGERO',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78760,'UNIAO DO OESTE',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78778,'SAO MARTINHO',42);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78786,'SAO MIGUEL D\'OESTE',42);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78786,'SAO MIGUEL D''OESTE',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78794,'SAO MIGUEL DA BOA VISTA',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78808,'SAO PEDRO DE ALCANTARA',42);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (78816,'SAO PEDRO TOBIAS',42);
@@ -7387,7 +7389,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79707,'INDIAR
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79715,'ITABAIANA',28);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79723,'ITABAIANINHA',28);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79731,'ITABI',28);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79740,'ITAPORANGA D\'AJUDA',28);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79740,'ITAPORANGA D''AJUDA',28);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79758,'JAPARATUBA',28);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79766,'JAPOATA',28);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (79782,'LAGARTO',28);
@@ -7479,7 +7481,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80705,'ANGATU
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80713,'ANHEMBI',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80721,'ANHUMAS',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80730,'APARECIDA',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80748,'APARECIDA D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80748,'APARECIDA D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80756,'APARECIDA DE SAO MANUEL',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80764,'APARECIDA DO BONITO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (80772,'APIAI',35);
@@ -7693,12 +7695,12 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82902,'ENGENH
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82910,'ENGENHEIRO COELHO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82929,'ENGENHEIRO SCHMIDT',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82945,'ESMERALDA',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82953,'ESPERANCA D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82953,'ESPERANCA D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82961,'ESPIGAO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82970,'ESPIRITO SANTO DO PINHAL',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82988,'ESPIRITO SANTO DO TURVO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (82996,'ESTIVA GERBI',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83011,'ESTRELA D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83011,'ESTRELA D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83020,'ESTRELA DO NORTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83038,'EUCLIDES DA CUNHA PAULISTA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83046,'EUGENIO DE MELO',35);
@@ -7740,8 +7742,8 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83402,'GUAPIR
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83410,'GUARA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83429,'GUARACAI',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83437,'GUARACI',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83445,'GUARACIABA D\'OESTE',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83453,'GUARANI D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83445,'GUARACIABA D''OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83453,'GUARANI D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83461,'GUARANTA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83470,'GUARAPIRANGA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (83488,'GUARAPUA',35);
@@ -8002,7 +8004,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86118,'PACAEM
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86126,'PADRE NOBREGA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86134,'PALESTINA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86142,'PALMARES PAULISTA',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86150,'PALMEIRA D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86150,'PALMEIRA D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86169,'PALMEIRAS DE SAO PAULO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86177,'PALMITAL',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (86185,'PANORAMA',35);
@@ -8152,9 +8154,9 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87637,'SANDOV
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87645,'SANTA ADELIA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87653,'SANTA ALBERTINA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87661,'SANTA AMERICA',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87670,'SANTA BARBARA D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87670,'SANTA BARBARA D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87688,'SANTA BRANCA',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87696,'SANTA CLARA D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87696,'SANTA CLARA D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87718,'SANTA CRUZ DA CONCEICAO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87726,'SANTA CRUZ DA ESPERANCA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87734,'SANTA CRUZ DA ESTRELA',35);
@@ -8171,7 +8173,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87831,'SANTA 
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87840,'SANTA MARIA DA SERRA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87858,'SANTA MARIA DO GURUPA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87866,'SANTA MERCEDES',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87874,'SANTA RITA D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87874,'SANTA RITA D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87882,'SANTA RITA DO PASSA QUATRO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87890,'SANTA RITA DO RIBEIRA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (87904,'SANTA ROSA DE VITERBO',35);
@@ -8208,7 +8210,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88218,'SAO JO
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88226,'SAO JOAO DE IRACEMA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88234,'SAO JOAO DE ITAGUACU',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88242,'SAO JOAO DO MARINHEIRO',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88250,'SAO JOAO DO PAU D\'ALHO',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88250,'SAO JOAO DO PAU D''ALHO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88269,'SAO JOAO NOVO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88277,'SAO JOAQUIM DA BARRA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88285,'SAO JOSE DA BELA VISTA',35);
@@ -8221,7 +8223,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88340,'SAO LO
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88358,'SAO LOURENCO DO TURVO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88366,'SAO LUIS DO PARAITINGA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88374,'SAO MANUEL',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88382,'SAO MARTINHO D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88382,'SAO MARTINHO D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88390,'SAO MIGUEL ARCANJO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88412,'SAO PAULO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88420,'SAO PEDRO',35);
@@ -8283,7 +8285,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88978,'TAUBAT
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88986,'TECAINDA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (88994,'TEJUPA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (89001,'TEODORO SAMPAIO',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (89028,'TERRA NOVA D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (89028,'TERRA NOVA D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (89036,'TERRA ROXA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (89044,'TIBIRICA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (89052,'TIETE',35);
@@ -8403,7 +8405,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90530,'AINHUM
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90549,'VARGINHA',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90557,'CAMPO NOVO DO PARECIS',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90565,'ALAGOINHA DO PIAUI',22);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90573,'MACHADINHO D\'OESTE',11);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90573,'MACHADINHO D''OESTE',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90590,'SALOBRO',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90603,'VILA GANDHI',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90611,'CAETANO MENDES',41);
@@ -8418,7 +8420,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90719,'SAO VI
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90727,'CACHOEIRA DO ESPIRITO SANTO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90735,'SENHOR BOM JESUS DOS GRAMADOS',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90743,'PALMITAL DE SAO SILVESTRE',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90751,'SEDE NOVA SANT\'ANA',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90751,'SEDE NOVA SANT''ANA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90760,'SARANDI',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90824,'AGUA VERDE',23);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (90840,'INDAIA GRANDE',50);
@@ -8568,7 +8570,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92703,'VILA P
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92711,'BEZERRO BRANCO',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92720,'HORIZONTE DO OESTE',51);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92738,'CAITE',51);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92746,'SAO FELIPE D\'OESTE',11);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92746,'SAO FELIPE D''OESTE',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92754,'SAO MIGUEL DO GUAPORE',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92762,'CANDEIAS DO JAMARI',11);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (92789,'MAGISTERIO',43);
@@ -8873,7 +8875,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97012,'NOVO R
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97020,'AGUA AZUL DO NORTE',15);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97039,'BREU BRANCO',15);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97047,'PALESTINA DO PARA',15);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97055,'PAU D\'ARCO',15);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97055,'PAU D''ARCO',15);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97063,'NOVA ESPERANCA DO PIRIA',15);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97071,'SANTA LUZIA DO PARA',15);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97080,'SAUDADE DO IGUACU',41);
@@ -8927,7 +8929,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97551,'DARCIN
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97560,'ESPERANTINA',17);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97578,'MAURILANDIA DO TOCANTINS',17);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97586,'MOSQUITO',17);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97594,'PAU D\'ARCO',17);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97594,'PAU D''ARCO',17);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97608,'RECURSOLANDIA',17);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97616,'SANDOLANDIA',17);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97624,'SANTA FE DO ARAGUAIA',17);
@@ -8951,9 +8953,9 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97799,'LAGOA 
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97802,'LAGOA DO RANCHO',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97810,'LARANJAL',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97829,'MASSARANDUBA',27);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97837,'OLHO D\'AGUA DE CIMA',27);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97845,'OLHO D\'AGUA DOS DANDANHAS',27);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97853,'PAU D\'ARCO',27);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97837,'OLHO D''AGUA DE CIMA',27);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97845,'OLHO D''AGUA DOS DANDANHAS',27);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97853,'PAU D''ARCO',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97861,'PAU FERRO',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97870,'POCAO',27);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (97888,'POCO DA PEDRA',27);
@@ -9022,7 +9024,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98507,'SAO JO
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98515,'BARRA DE NOVO BRASIL',32);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98523,'SAO FRANCISCO DO NOVO BRASIL',32);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98531,'BAIA NOVA',32);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98540,'OLHOS D\'AGUA',52);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98540,'OLHOS D''AGUA',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98558,'PEDRA BRANCA',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98566,'PIRES BELO',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (98574,'SANTA CRUZ DAS LAJES',52);
@@ -9299,7 +9301,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101508,'RETIR
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101516,'INVERNADA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101524,'VARGEADO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101540,'SAO SEBASTIAO',41);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101559,'OLHO D\'AGUA',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101559,'OLHO D''AGUA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101567,'AREIAS',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101583,'MACACO',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (101591,'LAJEADO',41);
@@ -9629,7 +9631,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (104930,'VILA 
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (104949,'SAO PATRICIO',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (104957,'OLARIA DO ANGICO',52);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (104965,'GAMELEIRA DE GOIAS',52);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (104973,'PAU D\'ALHO DO SUL',41);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (104973,'PAU D''ALHO DO SUL',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (104990,'VILA NOVA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105007,'VILA NOVA DE FLORENCA',41);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105015,'BORDA CAMPO S. SEBASTIAO',41);
@@ -9662,7 +9664,7 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105279,'CARUA
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105287,'CAIBURA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105295,'MONTE CABRAO',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105309,'ILHA DIANA',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105317,'BANDEIRANTES D\'OESTE',35);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105317,'BANDEIRANTES D''OESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105325,'SUINANA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105333,'OUROESTE',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105341,'CARDOSO',35);
@@ -9690,11 +9692,11 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105562,'BARRA
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105570,'BANDIACU',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105589,'TERMAS DE IBIRA',35);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105597,'APIAI-MIRIM',35);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105600,'OLHOS D\'AGUA DO SECO',29);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105600,'OLHOS D''AGUA DO SECO',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105619,'SAO SEBASTIAO DE BRAUNAS',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105627,'PADRE JULIO MARIA',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105635,'CHAPADA GAUCHA',31);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105643,'PINGO-D\'AGUA',31);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105643,'PINGO-D''AGUA',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105651,'MACUCO',31);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105660,'ANGICO',29);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (105678,'ALEGRE',29);
@@ -9782,11 +9784,11 @@ INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106496,'LAGOA
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106500,'SANTO ANTONIO DOS MILAGRES',22);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106518,'CURRALINHOS',22);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106526,'LAGOINHA DO PIAUI',22);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106534,'OLHO D\'AGUA DO PIAUI',22);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106534,'OLHO D''AGUA DO PIAUI',22);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106542,'TANQUE DO PIAUI',22);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106550,'CAJAZEIRAS DO PIAUI',22);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106569,'SAO JOAO DA VARJOTA',22);
-INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106577,'BARRA D\'ALCANTARA',22);
+INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106577,'BARRA D''ALCANTARA',22);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106585,'WALL FERRAZ',22);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106593,'SAO MIGUEL DO FIDALGO',22);
 INSERT INTO T_GCS_CIDADE (cd_cidade, nm_cidade, cd_estado) VALUES (106607,'FLORESTA DO PIAUI',22);
